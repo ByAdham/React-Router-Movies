@@ -70,3 +70,10 @@ body {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
+
+.navigation-links{
+  display: flex;
+  flex-flow: column;
+  text-decoration: none;
+  border: solid red 5px;
+}

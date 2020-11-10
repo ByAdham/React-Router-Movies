@@ -1,5 +1,13 @@
 import React from 'react';
+import MovieList from './MovieList'
+import Movie from './Movie'
 
 export default function MovieCard (props) {
-  return;
+  const {movie} = props;
+  
+  return(
+    <div className=''></div>
+
+
+  );
 }
